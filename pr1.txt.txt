@@ -5,3 +5,5 @@ hiii
 change
 
 fkflef
+
+To get started with this project, just 'clone' this repository
